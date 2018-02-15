@@ -7,7 +7,7 @@ routing etc.
   14 additional math functions from java.lang.math including trig functions and a random integer generator
 
 ### regex:
-  9 regex functions from java.util.regex.  regexmatches can be used for field validation.
+  9 regex functions from java.util.regex.  regex:matches can be used for field validation.
   
 ### string:  
   25 string functions from java.lang.string.  
