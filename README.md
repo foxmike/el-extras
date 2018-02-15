@@ -13,7 +13,8 @@ routing etc.
   25 string functions from java.lang.string.  
     these are both new functions and replacements for stock streamsets str: expression language 
     functions offering improved consistency with java.lang.string
- 
+### date:
+  date format function to convert date string to reformatted date string.  use simple date format specification
   
 to use, jar up and drop el-extras.jar in the streamsets-datacollector/libs-common-lib directory
 tested in streamsets 2.7, java 8
