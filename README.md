@@ -7,7 +7,7 @@ routing etc. using this highly extensible product
 
   14 additional math functions from java.lang.math
 
-  9 regex functions from java.util.regex
+  9 regex functions from java.util.regex.  regexmatches can be used for field validation.
   
   25 string functions from java.lang.string.  
     these are both new functions and replacements for stock streamsets str expressions language 
