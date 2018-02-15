@@ -16,6 +16,7 @@ routing etc.
 ### date:
   date format function to convert date string to reformatted date string.  use simple date format specification
   
+  
 to use, jar up and drop el-extras.jar in the streamsets-datacollector/libs-common-lib directory
 tested in streamsets 2.7, java 8
 
