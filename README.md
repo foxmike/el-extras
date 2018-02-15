@@ -14,6 +14,6 @@ routing etc. using this highly extensible product
     functions offering improved consistency with java.lang.string
     
 to use, jar up and drop el-extras.jar in the streamsets-datacollector/libs-common-lib directory
-tested in streamsets 2.7
+tested in streamsets 2.7, java 8
 
 ### enjoy!
