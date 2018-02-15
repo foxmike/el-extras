@@ -36,7 +36,7 @@ public class StringIsEmpty {
      */
     @ElFunction(
             prefix = "string",
-            name = "isempty",
+            name = "isEmpty",
             description = "Checks to see if a string is empty"
     )
     public static boolean isEmpty(

@@ -37,7 +37,7 @@ public class StringIsNumeric {
      */
     @ElFunction(
             prefix = "string",
-            name = "isnumeric",
+            name = "isNumeric",
             description = "Checks to see if a string is numeric"
     )
     public static boolean isNumeric(

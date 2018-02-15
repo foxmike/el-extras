@@ -36,7 +36,7 @@ public class StringToUpperCase {
      */
     @ElFunction(
             prefix = "string",
-            name = "touppercase",
+            name = "toUpperCase",
             description = "Returns an upper case version of the original string"
     )
     public static String toUpperCase(

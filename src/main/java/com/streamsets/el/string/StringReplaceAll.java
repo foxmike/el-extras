@@ -38,7 +38,7 @@ public class StringReplaceAll {
      */
     @ElFunction(
             prefix = "string",
-            name = "replaceall",
+            name = "replaceAll",
             description = "Returns a modified string"
     )
     public static String replaceAll(

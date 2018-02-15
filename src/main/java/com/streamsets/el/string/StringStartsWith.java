@@ -38,10 +38,10 @@ public class StringStartsWith {
      */
     @ElFunction(
             prefix = "string",
-            name = "startswith",
+            name = "startsWith",
             description = "Returns a boolean based on whether the substring (starting from the specified offset index) has the specified prefix or not."
     )
-    public static boolean equals(
+    public static boolean startsWith(
             @ElParam("inString") String inString, @ElParam("prefix") String prefix, @ElParam("offset") int offset
     ) {
         try {

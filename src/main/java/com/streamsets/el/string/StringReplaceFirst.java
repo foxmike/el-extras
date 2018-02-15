@@ -38,7 +38,7 @@ public class StringReplaceFirst {
      */
     @ElFunction(
             prefix = "string",
-            name = "replacefirst",
+            name = "replaceFirst",
             description = "Returns a modified string"
     )
     public static String replaceFirst(

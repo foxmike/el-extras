@@ -32,7 +32,7 @@ public class StringEndsWith {
 
     @ElFunction(
             prefix = "string",
-            name = "endswith",
+            name = "endsWith",
             description = "Returns a boolean based on whether the substring has the specified suffix or not."
     )
     public static boolean equals(

@@ -40,7 +40,7 @@ public class RegexReplaceAll {
      */
     @ElFunction(
             prefix = "regex",
-            name = "replaceall",
+            name = "replaceAll",
             description = "Returns the string with all matches replaced"
     )
     public static String replaceAll(

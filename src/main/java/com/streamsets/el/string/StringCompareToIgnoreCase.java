@@ -37,7 +37,7 @@ public class StringCompareToIgnoreCase {
      */
     @ElFunction(
             prefix = "string",
-            name = "compareTo",
+            name = "compareToIgnoreCase",
             description = "Returns a boolean from a string comparison based on Unicode value of each character ignoring case"
     )
     public static int compareTo(

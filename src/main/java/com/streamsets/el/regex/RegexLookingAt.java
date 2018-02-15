@@ -39,7 +39,7 @@ public class RegexLookingAt {
      */
     @ElFunction(
             prefix = "regex",
-            name = "lookingat",
+            name = "lookingAt",
             description = "Returns true if the beginning of the string matches the regex"
     )
     public static boolean matches(

@@ -40,7 +40,7 @@ public class RegexReplaceFirst {
      */
     @ElFunction(
             prefix = "regex",
-            name = "replacefirst",
+            name = "replaceFirst",
             description = "Returns the string with the first match replaced"
     )
     public static String replaceAll(

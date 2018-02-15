@@ -36,7 +36,7 @@ public class StringToLowerCase {
      */
     @ElFunction(
             prefix = "string",
-            name = "tolowercase",
+            name = "toLowerCase",
             description = "Returns an lower case version of the original string"
     )
     public static String toLowerCase(

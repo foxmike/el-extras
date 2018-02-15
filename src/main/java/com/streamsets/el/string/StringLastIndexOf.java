@@ -33,11 +33,11 @@ public class StringLastIndexOf {
      *
      * @param inString The original string
      * @param anotherString The string to locate
-     * @return
+     * @return int the index of the last occurrence
      */
     @ElFunction(
             prefix = "string",
-            name = "lastindexof",
+            name = "lastIndexOf",
             description = "Returns the index of the last occurrence of the specified string"
     )
     public static int lastIndexOf(

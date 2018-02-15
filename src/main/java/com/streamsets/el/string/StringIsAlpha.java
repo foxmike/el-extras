@@ -36,7 +36,7 @@ public class StringIsAlpha {
      */
     @ElFunction(
             prefix = "string",
-            name = "isalpha",
+            name = "isAlpha",
             description = "Checks to see if a string is alpha"
     )
     public static boolean isAlpha(

@@ -37,7 +37,7 @@ public class StringEqualsIgnoreCase {
      */
     @ElFunction(
             prefix = "string",
-            name = "equalsignorecase",
+            name = "equalsIgnoreCase",
             description = "Returns a boolean from a string comparison with case ignored"
     )
     public static boolean equals(

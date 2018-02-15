@@ -33,11 +33,11 @@ public class StringIndexOf {
      *
      * @param inString The original string
      * @param anotherString The string to locate
-     * @return
+     * @return int the index of the first occurrence
      */
     @ElFunction(
             prefix = "string",
-            name = "indexof",
+            name = "indexOf",
             description = "Returns the index of the first occurrence of the specified string"
     )
     public static int indexOf(

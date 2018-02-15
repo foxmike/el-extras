@@ -36,7 +36,7 @@ public class StringHashCode {
      */
     @ElFunction(
             prefix = "string",
-            name = "hashcode",
+            name = "hashCode",
             description = "Returns the hash code of the string"
     )
     public static int hashCode(
