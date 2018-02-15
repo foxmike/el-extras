@@ -3,7 +3,7 @@
 additional expression language functions for streamsets to aid in data transformation, validation, 
 routing etc. using this highly extensible product  
 
-included
+## included
 
   14 additional math functions from java.lang.math
 
@@ -16,4 +16,4 @@ included
 to use, jar up and drop el-extras.jar in the streamsets-datacollector/libs-common-lib directory
 tested in streamsets 2.7
 
-enjoy!
+### enjoy!
