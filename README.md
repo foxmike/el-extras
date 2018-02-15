@@ -5,7 +5,7 @@ routing etc. using this highly extensible product
 
 ### included
 
-  14 additional math functions from java.lang.math
+  14 additional math functions from java.lang.math including trig functions and a random integer generator
 
   9 regex functions from java.util.regex.  regexmatches can be used for field validation.
   
