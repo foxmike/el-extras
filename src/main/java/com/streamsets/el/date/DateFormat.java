@@ -41,7 +41,7 @@ public class DateFormat {
      * @param oldString The original date string
      * @param oldFormat The original date format
      * @param newFormat The format of the returned date
-     * @return String The reformatted date string
+     * @return String The reformatted date as a string
      */
     @ElFunction(
             prefix = "date",
