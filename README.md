@@ -18,4 +18,3 @@ routing etc.
 to use, jar up and drop el-extras.jar in the streamsets-datacollector/libs-common-lib directory
 tested in streamsets 2.7, java 8
 
-### enjoy!
