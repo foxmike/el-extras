@@ -41,8 +41,8 @@ public class RegexTest {
 
 //            matcher.find();
 //            System.out.println(matcher.group(3));
-            IntStream.range(0, instanceNo).forEach($ -> matcher.find());
-            System.out.println(matcher.group(groupNo));
+//            IntStream.range(0, instanceNo).forEach($ -> matcher.find());
+//            System.out.println(matcher.group(groupNo));
 
 
         } catch (Exception e) {
