@@ -10,7 +10,7 @@ routing etc.
   9 regex functions from java.util.regex.  regex:matches works great for field validation.
   
 ### string:  
-  26 string functions from java.lang.string.  
+  25 string functions from java.lang.string.  
     these are both new functions and replacements for stock streamsets str: expression language 
     functions offering improved consistency with java.lang.string
 ### date:
