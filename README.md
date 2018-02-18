@@ -4,10 +4,10 @@ additional expression language functions for streamsets to aid in data transform
 routing etc.   
 
 ### math:
-  14 additional math functions from java.lang.math including trig functions and a random integer generator
+  15 additional math functions from java.lang.math including trig functions and a random integer generator
 
 ### regex:
-  9 regex functions from java.util.regex.  regex:matches works great for field validation.
+  8 regex functions from java.util.regex.  regex:matches works great for field validation.
   
 ### string:  
   25 string functions from java.lang.string.  
