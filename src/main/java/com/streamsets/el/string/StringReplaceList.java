@@ -21,7 +21,8 @@ import com.streamsets.pipeline.api.ElFunction;
 import com.streamsets.pipeline.api.ElParam;
 
 /**
- * StringReplace.java - Streamsets expression language function for java string replace method
+ * StringReplace.java - Streamsets expression language function that replaces a pipe delimited list of strings with another pipe delimited list of strings
+ * string:replaceList("aaabbbccc","a|b","A,B") returns "AAABBBccc"
  * @author Michael Fox
  * @version 1.0
  */
