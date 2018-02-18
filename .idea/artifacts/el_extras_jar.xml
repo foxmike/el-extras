@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="el-extras:jar">
+    <output-path>$USER_HOME$/Tools/streamsets-datacollector-2.7.0.0/libs-common-lib</output-path>
+    <root id="archive" name="el-extras.jar">
+      <element id="module-output" name="el-extras" />
+    </root>
+  </artifact>
+</component>

@@ -22,6 +22,7 @@ import com.streamsets.pipeline.api.ElParam;
 
 /**
  * StringCount.java - Streamsets expression language function that counts the occurrences of a string within another string.
+ * string:count("aaabbbcccaaa","aaa") = 2
  * @author Michael Fox
  * @version 1.0
  */
