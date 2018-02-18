@@ -44,17 +44,12 @@ public class StringCount {
             @ElParam("inString") String inString, @ElParam("countString") String countString
     ) {
         try {
-            int lastIndex = 0;
+            int index = 0;
             int count = 0;
-
-            while(lastIndex != -1){
-
-                lastIndex = inString.indexOf(countString,lastIndex);
-
-                if(lastIndex != -1){
-                    count ++;
-                    lastIndex += inString.length();
-                }
+            int length = countString.length();
+            while( (index = inString.indexOf(countString, index)) != -1 ) {
+                index += length;
+                count++;
             }
 
             return count;
