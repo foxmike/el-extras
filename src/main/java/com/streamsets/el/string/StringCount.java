@@ -45,7 +45,6 @@ public class StringCount {
     ) {
         try {
             int index = 0;
-            
             int count = 0;
             int length = countString.length();
             while( (index = inString.indexOf(countString, index)) != -1 ) {
