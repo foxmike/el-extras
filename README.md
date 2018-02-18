@@ -14,7 +14,8 @@ routing etc.
     these are both new functions and replacements for stock streamsets str: expression language 
     functions offering improved consistency with java.lang.string
 ### date:
-  date format function to convert date string to reformatted date string.  use simple date format specification
+  date format function to convert date string to reformatted date string.  
+  specify formats as you would for java.text.SimpleDateFormat.
   
   
 to use, jar up and drop el-extras.jar in the streamsets-datacollector/libs-common-lib directory
