@@ -25,7 +25,7 @@ import java.util.Random;
 /**
  * MathRand.java - Streamsets expression language function generating random numbers
  * @author Michael Fox
- * @version 1.0
+ * @version 1.1.0
  */
 
 @ElDef

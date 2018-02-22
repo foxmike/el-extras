@@ -23,7 +23,7 @@ import com.streamsets.pipeline.api.ElParam;
 /**
  * MathSqrt.java - Streamsets expression language function for java math sqrt method
  * @author Michael Fox
- * @version 1.0
+ * @version 1.1.0
  */
 
 @ElDef

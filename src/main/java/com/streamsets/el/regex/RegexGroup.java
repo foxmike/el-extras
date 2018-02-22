@@ -29,7 +29,7 @@ import java.util.stream.IntStream;
  *                   Allows you to find the result of applying a particular group (groupNo) from a group regex to
  *                   a particular iteration (instanceNo) of a find
  * @author Michael Fox
- * @version 1.0
+ * @version 1.1.0
  */
 
 @ElDef

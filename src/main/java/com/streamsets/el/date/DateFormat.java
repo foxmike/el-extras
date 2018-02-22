@@ -30,7 +30,7 @@ import java.util.stream.IntStream;
  * DateFormat.java - Streamsets expression language function for date formatting
  *                   Allows you to convert from one date format to another
  * @author Michael Fox
- * @version 1.0
+ * @version 1.1.0
  */
 
 @ElDef

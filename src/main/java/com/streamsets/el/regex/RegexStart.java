@@ -25,7 +25,7 @@ import java.util.regex.Pattern;
 /**
  * RegexStart.java - Streamsets expression language function for java regex start method
  * @author Michael Fox
- * @version 1.0
+ * @version 1.1.0
  */
 
 @ElDef

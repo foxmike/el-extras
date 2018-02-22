@@ -23,7 +23,7 @@ import com.streamsets.pipeline.api.ElParam;
 /**
  * StringContains.java - Streamsets expression language function for java string contains method
  * @author Michael Fox
- * @version 1.0
+ * @version 1.1.0
  */
 
 @ElDef

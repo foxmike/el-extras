@@ -23,7 +23,7 @@ import com.streamsets.pipeline.api.ElParam;
 /**
  * MathLog.java - Streamsets expression language function for java math log method
  * @author Michael Fox
- * @version 1.0
+ * @version 1.1.0
  */
 
 @ElDef

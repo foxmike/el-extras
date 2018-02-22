@@ -23,7 +23,7 @@ import com.streamsets.pipeline.api.ElParam;
 /**
  * MathAtan.java - Streamsets expression language function for java math atan method
  * @author Michael Fox
- * @version 1.0
+ * @version 1.1.0
  */
 
 @ElDef

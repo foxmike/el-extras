@@ -24,7 +24,7 @@ import com.streamsets.pipeline.api.ElParam;
  * StringIsAlpha.java - Streamsets expression language function that determines if a string is all numbers
  * Note - This checks each character so -10 and 1.0 would return false
  * @author Michael Fox
- * @version 1.0
+ * @version 1.1.0
  */
 
 @ElDef

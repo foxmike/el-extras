@@ -23,7 +23,7 @@ import com.streamsets.pipeline.api.ElParam;
 /**
  * StringIsAlpha.java - Streamsets expression language function that determines if a string is all alpha characters
  * @author Michael Fox
- * @version 1.0
+ * @version 1.1.0
  */
 
 @ElDef

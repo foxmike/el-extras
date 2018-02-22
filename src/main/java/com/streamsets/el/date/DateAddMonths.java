@@ -28,7 +28,7 @@ import java.util.Date;
  * DateFormat.java - Streamsets expression language function for date calculation
  *                   Allows you add months to a date
  * @author Michael Fox
- * @version 1.0
+ * @version 1.1.0
  */
 
 @ElDef
