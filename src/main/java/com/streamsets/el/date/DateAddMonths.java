@@ -46,7 +46,7 @@ public class DateAddMonths {
             name = "addMonths",
             description = "Takes a string date, adds a specified number of months and returns the incremented value"
     )
-    public static String group(
+    public static String addMonths(
             @ElParam("oldString") String oldString, @ElParam("format") String format, @ElParam("months") int months
     ) {
         try {

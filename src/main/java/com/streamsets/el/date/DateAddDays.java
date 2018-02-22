@@ -46,7 +46,7 @@ public class DateAddDays {
             name = "addDays",
             description = "Takes a string date, adds a specified number of days and returns the incremented value"
     )
-    public static String group(
+    public static String addDays(
             @ElParam("oldString") String oldString, @ElParam("format") String format, @ElParam("days") int days
     ) {
         try {

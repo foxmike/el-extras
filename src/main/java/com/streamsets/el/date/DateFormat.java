@@ -48,7 +48,7 @@ public class DateFormat {
             name = "format",
             description = "Takes a date string of a particular format and converts it to another format"
     )
-    public static String group(
+    public static String format(
             @ElParam("oldString") String oldString, @ElParam("oldFormat") String oldFormat, @ElParam("newFormat") String newFormat
     ) {
         try {

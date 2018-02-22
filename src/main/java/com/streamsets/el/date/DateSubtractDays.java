@@ -46,7 +46,7 @@ public class DateSubtractDays {
             name = "subtractDays",
             description = "Takes a string date, subtracts a specified number of days and returns the decremented value"
     )
-    public static String group(
+    public static String subtractDays(
             @ElParam("oldString") String oldString, @ElParam("format") String format, @ElParam("days") int days
     ) {
         try {

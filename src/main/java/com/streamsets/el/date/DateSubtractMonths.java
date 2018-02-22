@@ -46,7 +46,7 @@ public class DateSubtractMonths {
             name = "subtractMonths",
             description = "Takes a string date, subtracts a specified number of months and returns the decremented value"
     )
-    public static String group(
+    public static String subtractMonths(
             @ElParam("oldString") String oldString, @ElParam("format") String format, @ElParam("months") int months
     ) {
         try {
