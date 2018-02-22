@@ -42,7 +42,7 @@ public class RegexLookingAt {
             name = "lookingAt",
             description = "Returns true if the beginning of the string matches the regex"
     )
-    public static boolean matches(
+    public static boolean lookingAt(
             @ElParam("inString") String inString, @ElParam("regex") String regex
     ) {
         try {

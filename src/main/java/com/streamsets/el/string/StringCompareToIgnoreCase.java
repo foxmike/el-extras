@@ -40,7 +40,7 @@ public class StringCompareToIgnoreCase {
             name = "compareToIgnoreCase",
             description = "Returns a boolean from a string comparison based on Unicode value of each character ignoring case"
     )
-    public static int compareTo(
+    public static int compareToIgnoreCase(
             @ElParam("inString") String inString, @ElParam("anotherString") String anotherString
     ) {
         try {

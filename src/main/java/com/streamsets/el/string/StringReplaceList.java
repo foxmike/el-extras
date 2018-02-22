@@ -42,7 +42,7 @@ public class StringReplaceList {
             name = "replaceList",
             description = "Returns a string after multiple replacements attempted"
     )
-    public static String replace(
+    public static String replaceList(
             @ElParam("inString") String inString, @ElParam("oldList") String oldList, @ElParam("newlist") String newList
     ) {
         try {

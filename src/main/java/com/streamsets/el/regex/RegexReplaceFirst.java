@@ -43,7 +43,7 @@ public class RegexReplaceFirst {
             name = "replaceFirst",
             description = "Returns the string with the first match replaced"
     )
-    public static String replaceAll(
+    public static String replaceFirst(
             @ElParam("inString") String inString, @ElParam("regex") String regex, @ElParam("replacement") String replacement
     ) {
         try {

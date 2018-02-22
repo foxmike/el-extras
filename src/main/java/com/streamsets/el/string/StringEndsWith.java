@@ -35,7 +35,7 @@ public class StringEndsWith {
             name = "endsWith",
             description = "Returns a boolean based on whether the substring has the specified suffix or not."
     )
-    public static boolean equals(
+    public static boolean endsWith(
             @ElParam("inString") String inString, @ElParam("suffix") String suffix
     ) {
         try {
