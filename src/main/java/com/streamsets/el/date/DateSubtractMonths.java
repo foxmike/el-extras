@@ -26,7 +26,7 @@ import java.util.Date;
 
 /**
  * DateFormat.java - Streamsets expression language function for date calculation
- *                   Allows you subtract months to a date
+ *                   Allows you subtract months from a date
  * @author Michael Fox
  * @version 1.0
  */

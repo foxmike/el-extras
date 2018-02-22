@@ -26,7 +26,7 @@ import java.util.Date;
 
 /**
  * DateFormat.java - Streamsets expression language function for date calculation
- *                   Allows you subtract days to a date
+ *                   Allows you subtract days from a date
  * @author Michael Fox
  * @version 1.0
  */
