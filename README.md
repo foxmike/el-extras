@@ -14,7 +14,7 @@ routing etc.
     these are both new functions and replacements for stock streamsets str: expression language 
     functions offering improved consistency with java.lang.string
 ### date:
-  4 date functions for formatting and calculation.
+  5 date functions for formatting and calculation.
   specify formats as you would for java.text.SimpleDateFormat.
   
   
