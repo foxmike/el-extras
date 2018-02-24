@@ -39,8 +39,8 @@ public class RegexEnd {
      */
     @ElFunction(
             prefix = "regex",
-            name = "find",
-            description = "Returns the index in the string where the match begins"
+            name = "end",
+            description = "Returns the index in the string where the match ends"
     )
     public static int end(
             @ElParam("inString") String inString, @ElParam("regex") String regex
